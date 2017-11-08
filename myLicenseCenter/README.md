@@ -1,0 +1,8 @@
+﻿#0.版权说明
+    转自 https://coding.net/u/chenq_/p/license/git 这里仅作为参考学习之用，若私自盗用，造成的后果与本人无关。感谢作者的无私奉献    
+#1.目的
+    该项目为Intellij授权服务器（license service）的java实现。使用Spring-boot开发(JDK版本1.8.131)，可直接使用java -jar *.jar启动程序
+
+
+#2017/5/1 更新：
+    1.支持外部静态资源，项目已自带网页支持，实现目的：可在不修改源码的基础上在  ./license/ 目录下放入自定义的网页支持。
